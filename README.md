@@ -8,11 +8,11 @@ Hey, I'm Jakia Sultana!👋
 
 About Me:
 
-Software Engineering Student at Daffodil International University  
-Interested in QA Engineering & Software Testing  
-Currently learning Selenium, Java & GitHub  
-Goal: Become a Professional QA Engineer  
-Passionate about learning new technologies and building projects
+Software Engineering Student at Daffodil International University.  
+Interested in QA Engineering & Software Testing. 
+Currently learning Manual Testing, Selenium, Java & GitHub.  
+Goal: Become a Professional QA Engineer.  
+Passionate about learning new things!
 
 
 Tech Stack:
