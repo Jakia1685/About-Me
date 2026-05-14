@@ -1,8 +1,10 @@
 <div align="center">
+  
 Hey, I'm Jakia Sultana!👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=C084FC&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Future+QA+Engineer;Learning+Selenium+%26+Java;Welcome+to+my+GitHub+Profile+💜" />
 </div>
+
 
 About Me:
 
